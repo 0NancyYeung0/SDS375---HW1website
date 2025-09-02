@@ -1,0 +1,51 @@
+---
+title: "Nancy Yeung"
+image: "smiskis.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/0nancyyeung0/"
+  - label: GitHub
+    url: "https://github.com/0NancyYeung0"
+  - label: Email
+    url: "mailto:nyeung8090@gmail.com"
+output:
+  postcards::jolla
+css: styles.css
+---
+
+<style>
+/* Change background color */
+body {
+  background-color: #4b6043;
+}
+
+/* Change font color */
+body, .card {
+  color: #D8E4BC;
+}
+
+/* Button styles */
+.btn {
+  color: #D8E4BC;
+  border: 2px solid #D8E4BC;
+  background-color: transparent;
+}
+
+/* Hover effect */
+.btn:hover {
+  background-color: #D8E4BC;
+  color: #557e62;
+}
+
+</style>
+
+Hiiii, I'm a junior statistics and data science major completing the CS and business minor. Currently live in DFW, though I grew up with my grandparents in Brooklyn and I go back to visit every break! 
+
+Some of my hobbies include:
+
+- 📚 Reading  
+- 🎮 Gaming  
+- 🎨 Painting  
+- 🧸 Collecting blind boxes  
+
+This page was last updated on `r Sys.time()`
